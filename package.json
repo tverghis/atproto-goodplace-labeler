@@ -6,6 +6,11 @@
     "start": "yarn build && node ./dist/index.js"
   },
   "devDependencies": {
+    "@types/node": "^22.10.0",
     "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@atproto/identity": "^0.4.3",
+    "@atproto/sync": "^0.1.6"
   }
 }

@@ -16,8 +16,10 @@
     "outDir": "./dist",
     "resolveJsonModule": true,
     "rootDir": "./src",
+    "skipLibCheck": true,
     "strict": true,
     "target": "es2023",
+    "types": ["node"],
     "useDefineForClassFields": true
   },
   "include": ["./src"]
