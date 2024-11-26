@@ -1,0 +1,1 @@
+# atproto-goodplace-labeler
